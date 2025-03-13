@@ -3,6 +3,7 @@ __pycache__/
 processed
 outputs
 outputs_v2
+outputs_*/
 checkpoints
 checkpoints_v2
 trash
